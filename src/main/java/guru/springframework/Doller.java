@@ -11,4 +11,6 @@ public class Doller {
         amount = multiple*2;
     }
 
+    
+    
 }
