@@ -7,6 +7,8 @@ public class Doller {
         this.amount = amount;
     }
 
+    
+    
     void times(int multiple) {
         amount = multiple*2;
     }
